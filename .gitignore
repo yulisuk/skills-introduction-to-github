@@ -35,3 +35,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.DS_Store
